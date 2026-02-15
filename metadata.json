@@ -1,0 +1,5 @@
+{
+  "name": "Wanderlust Travel Planner",
+  "description": "A comprehensive travel planning application featuring trip dashboards, itinerary builders with maps, budget tracking, and collaborative packing lists.",
+  "requestFramePermissions": []
+}
